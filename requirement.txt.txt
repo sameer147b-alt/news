@@ -1,0 +1,8 @@
+feedparser
+requests
+beautifulsoup4
+python-dotenv
+newspaper3k
+tqdm
+transformers[sentencepiece]>=4.0.0
+torch>=1.12
